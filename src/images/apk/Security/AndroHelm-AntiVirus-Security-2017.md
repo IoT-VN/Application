@@ -36,6 +36,7 @@ AntiVirus cho Androids Mobile Web Security Vip cao cấp phiên bản đầy đ�
 * Khóa - khóa điện thoại của bạn với mật khẩu
 * unlock - mở khóa điện thoại của bạn
 ***
+
 ## Cấu trúc:
 ### lệnh mật khẩu
 Ví dụ:
