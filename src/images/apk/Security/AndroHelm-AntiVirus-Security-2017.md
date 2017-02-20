@@ -39,8 +39,9 @@ AntiVirus cho Androids Mobile Web Security Vip cao cấp phiên bản đầy đ�
 * siren - còi báo động từ xa
 * lock - khóa điện thoại của bạn với mật khẩu
 * unlock  - mở khóa điện thoại của bạn
-Cấu trúc:
-Mật khẩu - Lệnh
+
+### Cấu trúc:
+### Mật khẩu - Lệnh
 Ví dụ:
 * 123 callme
 * 123 locate
