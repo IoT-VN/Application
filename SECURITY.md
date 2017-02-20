@@ -2,6 +2,8 @@
 * AndroHelm AntiVirus Security 2017 v2.5.4 (Paid) $120 [Download] (https://drive.google.com/uc?export=download&id=0B7ko2dE1jBIZQS1ua0ZrZ0J0dG8)![alt text](https://github.com/MrPrecious/Premium-and-Paid-Android-Application/blob/master/src/images/AndroHelm-AntiVirus-Security-2017.png "AndroHelm AntiVirus Security 2017")
 * Avira Premium 4.7.apk [Download] (https://drive.google.com/uc?export=download&id=0B7ko2dE1jBIZSTNGZDcwNG1tRUU)
 
+***
+
 ## CÀI ĐẶT
 
 1. ↓ HƯỚNG DẪN HĐH ANDROID 2.X.X ↓
@@ -13,6 +15,8 @@
 
 - Giao diện Tiếng Việt Vào mục: Cài đặt &gt; Bảo mật &gt; đánh dấu vào ☑ Không rõ nguồn gốc (hoặc Nguồn không xác định).
 - Giao diện Tiếng Anh Vào mục: Settings &gt; Security &gt; đánh dấu vào ☑ Unknown Sources.
+
+***
 
 ## License
 MrPrecious Collected From the Internet
