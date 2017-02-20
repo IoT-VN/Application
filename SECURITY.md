@@ -4,7 +4,7 @@
 * Avira Antivirus Security Premium 4.7.apk [Download] (https://drive.google.com/uc?export=download&id=0B7ko2dE1jBIZSTNGZDcwNG1tRUU)
 ![alt text](https://github.com/MrPrecious/Premium-and-Paid-Android-Application/blob/master/src/images/Avira-Antivirus-Security-Premium.jpg "Avira Antivirus Security Premium")
 * Bitdefender Mobile Security Antivirus Premium v3.2.82.112.apk [Download] (https://drive.google.com/uc?export=download&id=0B7ko2dE1jBIZUU1QRlRsWUd2Vnc)
-![alt text](https://github.com/MrPrecious/Premium-and-Paid-Android-Application/blob/master/src/images/Bitdefender-Mobile-Security-Antivirus-Premium.jpg "Bitdefender Mobile Security Antivirus Premium")
+![alt text](https://github.com/MrPrecious/Premium-and-Paid-Android-Application/blob/master/src/images/WF5HgLU5UEk0hV05liPcYe4MMEAHIQXUfux_eHxxRgP9W6aBsQ.webp "Bitdefender Mobile Security Antivirus Premium")
 
 
 ***
