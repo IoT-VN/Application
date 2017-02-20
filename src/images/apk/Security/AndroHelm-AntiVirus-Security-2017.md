@@ -37,6 +37,7 @@ AntiVirus cho Androids Mobile Web Security Vip cao cấp phiên bản đầy đ�
 * unlock - mở khóa điện thoại của bạn
 ***
 ## Cấu trúc: lệnh mật khẩu
+
 Ví dụ:
 * 123 callme
 * 123 vị
