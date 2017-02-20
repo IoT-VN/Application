@@ -12,7 +12,8 @@ A short description of the motivation behind the creation and maintenance of the
 ## Installation
 
 ↓ HƯỚNG DẪN HĐH ANDROID 2.X.X ↓
-⋅⋅* Unordered sub-list. 
+⋅⋅* Unordered sub-list.
+- Giao diện Tiếng Việt bạn vào mục: Cài đặt &gt; Ứng dụng &gt; đánh dấu vào ☑ Nguồn không xác định
 
 ## API Reference
 
