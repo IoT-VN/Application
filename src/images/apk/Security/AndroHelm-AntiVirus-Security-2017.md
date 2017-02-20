@@ -1,31 +1,44 @@
-## BẢO MẬT - DIỆT VIRUS
+# AndroHelm AntiVirus Security 2017
 
-At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
+***
+AntiVirus cho Androids Mobile Web Security Vip cao cấp phiên bản đầy đủ với các tính năng tiên tiến và trang thiết bị cho các hoạt động hoàn hảo của điện thoại di động của bạn (điện thoại thông minh) hoặc Tablet và bảo mật web trong bất kỳ tình huống, với giấy phép suốt đời của một máy tính bảng. Trong khi cài đặt và bắt đầu công việc, nó nhanh chóng phát hiện được rối nơi để sửa chữa chúng, và trong trường hợp độ lệch của hoạt động hệ thống, nó ngay lập tức phản ứng bằng cách phản biện pháp hoạt động tối ưu của thiết bị. Liên tục quét tự động của tất cả các thiết lập loại trong chế độ thời gian thực.
+***
++ Miễn phí thường xuyên cập nhật, tiền thưởng và quà, và cũng cài đặt lại khi nó vô tình bị xóa
++ Còi báo động từ xa bật khi bị mất hoặc bị đánh cắp
+***
+## Thông báo + Âm thanh khi bất kỳ chương trình hoặc virus có hại được phát hiện + quét đôi
 
-## Code Example
++ Anti-spam: Chặn nhập và cuộc gọi đi / sms
++ Danh sách đen các số điện thoại
++ Tùy chọn lọc khác nhau
++ Lưu xem bảo vệ cộng của các ứng dụng nguy hiểm và quyền lợi của mình
++ Vị trí điện thoại thông qua Internet hoặc GPS với một liên kết đến Google Maps
++ Điện thoại từ xa khóa / mở khóa
++ Kiểm dịch
++ Thông tin Performance
++ Sao lưu các ứng dụng được cài đặt
++ Chặn ứng dụng bằng mật khẩu
++ Giám sát giao thông
++ Thống kê
++ Web-an ninh
++ Cache Cleaner
++ Ứng dụng quản lý
++ Các khuyến nghị
++ Dò rao vặt
++ Nhiệm vụ sát thủ
+***
+## Sms - lệnh:
 
-Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
+• xác định vị trí - xác định vị trí điện thoại của bạn bằng Internet / GPS
+• lau - xóa tất cả dữ liệu
+• callme - gọi vào điện thoại của bạn
+• còi - còi báo động từ xa
+• Khóa - khóa điện thoại của bạn với mật khẩu
+• unlock - mở khóa điện thoại của bạn
+***
+## Cấu trúc: lệnh mật khẩu
+Ví dụ:
+• 123 callme
+• 123 vị
+• 123 mật khẩu khóa 1
 
-## Motivation
-
-A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
-
-## Installation
-
-Provide code examples and explanations of how to get the project.
-
-## API Reference
-
-Depending on the size of the project, if it is small and simple enough the reference docs can be added to the README. For medium size to larger projects it is important to at least provide a link to where the API reference docs live.
-
-## Tests
-
-Describe and show how to run the tests with code examples.
-
-## Contributors
-
-Let people know how they can dive into the project, include important links to things like issue trackers, irc, twitter accounts if applicable.
-
-## License
-
-A short snippet describing the license (MIT, Apache, etc.)
