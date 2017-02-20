@@ -1,10 +1,9 @@
 # AndroHelm AntiVirus Security 2017
+![alt text](https://lh3.googleusercontent.com/QLQdGVmQK1lw348CIJC7ZHLtTEOYOTRmF1c2fQx_6cNWnsz7rrUVTLLL8SluiYP2wMw=w300-rw "AndroHelm AntiVirus Security 2017")
+***
 [Download] (https://drive.google.com/uc?export=download&id=0B7ko2dE1jBIZQS1ua0ZrZ0J0dG8)
 ***
 [Check Virus Online] (https://www.virustotal.com/en/url/50a0cdac20807fa000cd55a20b7a768617e580667cfd197945bf830e99d42080/analysis/1487586402/)
-***
-![alt text](https://lh3.googleusercontent.com/QLQdGVmQK1lw348CIJC7ZHLtTEOYOTRmF1c2fQx_6cNWnsz7rrUVTLLL8SluiYP2wMw=w300-rw "AndroHelm AntiVirus Security 2017")
-
 ***
 AntiVirus cho Androids Mobile Web Security Vip cao cấp phiên bản đầy đủ với các tính năng tiên tiến và trang thiết bị cho các hoạt động hoàn hảo của điện thoại di động của bạn (điện thoại thông minh) hoặc Tablet và bảo mật web trong bất kỳ tình huống, với giấy phép suốt đời của một máy tính bảng. Trong khi cài đặt và bắt đầu công việc, nó nhanh chóng phát hiện được rối nơi để sửa chữa chúng, và trong trường hợp độ lệch của hoạt động hệ thống, nó ngay lập tức phản ứng bằng cách phản biện pháp hoạt động tối ưu của thiết bị. Liên tục quét tự động của tất cả các thiết lập loại trong chế độ thời gian thực.
 ***
