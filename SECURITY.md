@@ -1,10 +1,7 @@
 # BẢO MẬT - DIỆT VIRUS
 * AndroHelm AntiVirus Security 2017 v2.5.4 (Paid) $120 [Download] (https://drive.google.com/uc?export=download&id=0B7ko2dE1jBIZQS1ua0ZrZ0J0dG8)![alt text](https://github.com/MrPrecious/Premium-and-Paid-Android-Application/blob/master/src/images/AndroHelm-AntiVirus-Security-2017.jpg "AndroHelm AntiVirus Security 2017")
-
 * Avira Antivirus Security Premium 4.7.apk [Download] (https://drive.google.com/uc?export=download&id=0B7ko2dE1jBIZSTNGZDcwNG1tRUU)
-![alt text][logo]
-
-[logo]: https://github.com/MrPrecious/Premium-and-Paid-Android-Application/blob/master/src/images/Avira-Antivirus-Security-Premium.jpg "Avira Antivirus Security Premium"
+![alt text][logo]: https://github.com/MrPrecious/Premium-and-Paid-Android-Application/blob/master/src/images/Avira-Antivirus-Security-Premium.jpg "Avira Antivirus Security Premium"
 
 
 ***
