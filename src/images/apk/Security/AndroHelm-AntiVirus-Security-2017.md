@@ -29,16 +29,15 @@ AntiVirus cho Androids Mobile Web Security Vip cao cấp phiên bản đầy đ�
 ***
 ## Sms - lệnh:
 
-• xác định vị trí - xác định vị trí điện thoại của bạn bằng Internet / GPS
-• lau - xóa tất cả dữ liệu
-• callme - gọi vào điện thoại của bạn
-• còi - còi báo động từ xa
-• Khóa - khóa điện thoại của bạn với mật khẩu
-• unlock - mở khóa điện thoại của bạn
+* xác định vị trí - xác định vị trí điện thoại của bạn bằng Internet / GPS
+* lau - xóa tất cả dữ liệu
+* callme - gọi vào điện thoại của bạn
+* còi - còi báo động từ xa
+* Khóa - khóa điện thoại của bạn với mật khẩu
+* unlock - mở khóa điện thoại của bạn
 ***
 ## Cấu trúc: lệnh mật khẩu
 Ví dụ:
-• 123 callme
-• 123 vị
-• 123 mật khẩu khóa 1
-
+* 123 callme
+* 123 vị
+* 123 mật khẩu khóa 1
